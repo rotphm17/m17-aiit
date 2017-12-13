@@ -22,5 +22,8 @@ z.B Griechische Alphabet, Deutsche Umlaute,...)
 
 ### UTF8-Code
 Der UTF8-Code ist in den ersten 128 Zeichen itent mit dem ASCII-Code, doch er kann wie jeder Unicode beliebig oft erweitert werden.
+Er kann bestehen aus:
 
-
+| 1 Byte | 2 Bytes | 3 Bytes | 4 Bytes | 
+| ----------- | ------------ | ------------------ | ----------------- |
+| **0**0101010 | 
