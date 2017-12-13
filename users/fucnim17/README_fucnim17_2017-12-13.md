@@ -30,4 +30,5 @@ Er kann bestehen aus:
 | 2⁷ | 2¹¹ | 2¹⁶ | 2²¹ |
 | 128 Zeichen | 2048 Zeichen | 65536 Zeichen | 2097152 Zeichen |
 
+Man erkennt: Bytes die mit 01 anfangen sind Nachfolgebytes. Stehen am ersten Byte am Anfang Zwei einsen, dann ist dies ein Zweistelliges Byte. Stehen 3 am Anfang, dann ein Dreistelliges usw.
 Dies kann unendlich weit fortgeführt werden!
