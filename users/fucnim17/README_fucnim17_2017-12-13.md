@@ -4,7 +4,7 @@
 
 Als **Codierung** bezeichnet man den Vorgang, bei dem man aus einem Zeichen eine Bitkette macht. Decodierung ist genau der Umgekehrte Vorgang, also von einer Bitkette zu einem Zeichen. 
 Früher wurde der American Standard Code for Information Interchange, kurz [ASCII-Code](https://de.wikipedia.org/wiki/American_Standard_Code_for_Information_Interchange) verwendet.
-Heutzutage verwendet man nur noch Unicode, da er ständig erweitert werden kann.
+Heutzutage verwendet man nur noch Unicode Zeichen, da er ständig erweitert werden kann. ([UTF-8](https://de.wikipedia.org/wiki/UTF-8) ist eine Kodierung für Unicode zeichen)
 
 ### ASCII-Code
 
@@ -19,6 +19,8 @@ Die ersten 128 Zeichen sind immer die gleichen. In den ersten 128 Zeichen enthal
 
 Die weiteren 128 Zeichen können je nach Land mit sogennanten ***Code Pages*** verschieden genutz werden.
 z.B Griechische Alphabet, Deutsche Umlaute,...)
+
+### UTF8-Code
 
 
 
