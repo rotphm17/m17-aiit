@@ -32,4 +32,4 @@ Er kann bestehen aus:
 
 Man erkennt: Bytes die mit 01 anfangen sind Nachfolgebytes. Stehen am ersten Byte am Anfang Zwei einsen, dann ist dies ein Zweistelliges Byte. Stehen 3 am Anfang, dann ein Dreistelliges usw.  
 
-Dies kann unendlich weit fortgeführt werden!
+
