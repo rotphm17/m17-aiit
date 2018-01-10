@@ -2,7 +2,7 @@
 
 ## Codierung
 
-Als **Codierung** bezeichnet man den Vorgang, bei dem man aus einem Zeichen eine Bitkette macht. Decodierung ist genau der Umgekehrte Vorgang, also von einer Bitkette zu einem Zeichen. 
+Als **Codierung** bezeichnet man den Vorgang, bei dem man aus einem Zeichen eine Bitkette macht. Decodierung ist genau der umgekehrte Vorgang, also von einer Bitkette zu einem Zeichen. 
 Früher wurde der American Standard Code for Information Interchange, kurz [ASCII-Code](https://de.wikipedia.org/wiki/American_Standard_Code_for_Information_Interchange) verwendet.
 Heutzutage verwendet man nur noch Unicode, da er ständig erweitert werden kann. ([UTF-8](https://de.wikipedia.org/wiki/UTF-8) ist eine vereinfachte Variante mit 8 Bit.)
 
@@ -30,6 +30,6 @@ Er kann bestehen aus:
 | 2⁷ | 2¹¹ | 2¹⁶ | 2²¹ |
 | 128 Zeichen | 2048 Zeichen | 65536 Zeichen | 2097152 Zeichen |
 
-Man erkennt: Bytes die mit 01 anfangen sind Nachfolgebytes. Stehen am ersten Byte am Anfang Zwei einsen, dann ist dies ein Zweistelliges Byte. Stehen 3 am Anfang, dann ein Dreistelliges usw.  
+Man erkennt: Bytes die mit 01 anfangen sind Nachfolgebytes. Stehen am ersten Byte am Anfang zwei Einsen, dann ist dies ein zweistelliges Byte. Stehen 3 am Anfang, dann ein Dreistelliges usw.  
 
 
