@@ -2,14 +2,14 @@
 
 ## Publizieren
 
-Als ***Publizieren*** bezeichnet man den Vorgaang, bei dem man Informationen bzw. Dateien über das Internet weiter- bzw. freigibt.
+Als [***Publizieren***](https://de.wikipedia.org/wiki/Publikation)* bezeichnet man den Vorgaang, bei dem man Informationen bzw. Dateien über das Internet weiter- bzw. freigibt.
 
 **Möglichkeiten:**
 
 * Soziale Netzwerke: (Whatsapp, Facebook, Twitter, Snapchat, Youtube, etc.)
 * Word Dokumente: veröffentlicht in einer Cloud oder auf einer Website
-* PDF-Dokument: Vorteil gegenüber Word-Dokumente &#8594 sie sind genormt (alle Versionen gleich)
-* als Website (in HTML-Format)
+* PDF-Dokument: Vorteil gegenüber Word-Dokumente → sie sind genormt (alle Versionen gleich)
+* als Website (in HTML-Format): beste Lösung → passt sich automatisch an die Bildschirmgröße an*-
 
 
 ## Codierung
@@ -44,4 +44,5 @@ Er kann bestehen aus:
 
 Man erkennt: Bytes die mit 01 anfangen sind Nachfolgebytes. Stehen am ersten Byte am Anfang zwei Einsen, dann ist dies ein zweistelliges Byte. Stehen 3 am Anfang, dann ein Dreistelliges usw.  
 
+#### Übungen zum UTF-8 Code
 
