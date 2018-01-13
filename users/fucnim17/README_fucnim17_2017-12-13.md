@@ -46,3 +46,16 @@ Man erkennt: Bytes die mit 01 anfangen sind Nachfolgebytes. Stehen am ersten Byt
 
 #### Übungen zum UTF-8 Code
 
+
+**Betriebssystem:** Ubunto
+
+**Ablauf:**
+* in ein Textdokument ein Wort hineinschreiben z.B. *Österreich*
+* das Textdokument speichern
+* die Ubunto-Konsole öffnen
+* mit dem Befehl **cd** den Speicherort auswählen z.B. *cd Schreibtisch*
+* mit dem Befehl **hexdump** die Hexadezimalzahlen aufrufen z.B. *hexdump Österreich*
+* die Hexzahlen in das Binärsystem umrechnen
+*
+
+
