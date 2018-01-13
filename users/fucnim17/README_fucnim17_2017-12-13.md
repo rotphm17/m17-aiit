@@ -42,7 +42,7 @@ Er kann bestehen aus:
 | 2⁷ | 2¹¹ | 2¹⁶ | 2²¹ |
 | 128 Zeichen | 2048 Zeichen | 65536 Zeichen | 2097152 Zeichen |
 
-Man erkennt: Bytes die mit 01 anfangen sind Nachfolgebytes. Stehen am ersten Byte am Anfang zwei Einsen, dann ist dies ein zweistelliges Byte. Stehen 3 am Anfang, dann ein Dreistelliges usw.  
+Man erkennt: Bytes die mit 10 anfangen sind Nachfolgebytes. Stehen am ersten Byte am Anfang zwei Einsen, dann ist dies ein zweistelliges Byte. Stehen 3 am Anfang, dann ein Dreistelliges usw.  
 
 #### Übungen zum UTF-8 Code
 
@@ -55,7 +55,9 @@ Man erkennt: Bytes die mit 01 anfangen sind Nachfolgebytes. Stehen am ersten Byt
 * die Ubunto-Konsole öffnen
 * mit dem Befehl **cd** den Speicherort auswählen z.B. *cd Schreibtisch*
 * mit dem Befehl **hexdump** die Hexadezimalzahlen aufrufen z.B. *hexdump Österreich*
-* die Hexzahlen in das Binärsystem umrechnen
-*
+* die Hexzahlen des ersten Buchstaben (*Ö*) in das Binärsystem umrechen
+* die Unnötigen Bits wegstreichen (bei einem zweistelligem Byte sind das beim ersten Byte die Bits 110 und beim Zweiten die Bits 10)
+* die Übergebliebenen Bits wieder in Hexadezimal umrechen
+* die Hexzahlen bei [DIESER](https://www.compart.com/de/unicode) Tabelle eingeben und normalerweise sollte dann da ein großes Ö stehen
 
 
