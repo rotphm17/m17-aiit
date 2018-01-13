@@ -1,5 +1,12 @@
 # Textdateien
 
+## Publizieren
+
+Als ***Publizieren*** bezeichnet man den Vorgaang, bei dem man Informationen bzw. Dateien über das Internet weiter- bzw. freigibt.
+
+**Möglichkeiten:**
+
+
 ## Codierung
 
 Als **Codierung** bezeichnet man den Vorgang, bei dem man aus einem Zeichen eine Bitkette macht. Decodierung ist genau der umgekehrte Vorgang, also von einer Bitkette zu einem Zeichen. 
