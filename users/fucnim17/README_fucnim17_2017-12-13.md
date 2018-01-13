@@ -2,7 +2,7 @@
 
 ## Publizieren
 
-Als [Publizieren](https://de.wikipedia.org/wiki/Publikation)* bezeichnet man den Vorgaang, bei dem man Informationen bzw. Dateien über das Internet weiter- bzw. freigibt.
+Als [***Publizieren***](https://de.wikipedia.org/wiki/Publikation) bezeichnet man den Vorgaang, bei dem man Informationen bzw. Dateien über das Internet weiter- bzw. freigibt.
 
 **Möglichkeiten:**
 
