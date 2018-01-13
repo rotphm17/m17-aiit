@@ -6,6 +6,11 @@ Als ***Publizieren*** bezeichnet man den Vorgaang, bei dem man Informationen bzw
 
 **Möglichkeiten:**
 
+* Soziale Netzwerke: (Whatsapp, Facebook, Twitter, Snapchat, Youtube, etc.)
+* Word Dokumente: veröffentlicht in einer Cloud oder auf einer Website
+* PDF-Dokument: Vorteil gegenüber Word-Dokumente &#8594 sie sind genormt (alle Versionen gleich)
+* als Website (in HTML-Format)
+
 
 ## Codierung
 
