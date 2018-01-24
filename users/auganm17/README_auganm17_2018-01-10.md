@@ -35,7 +35,7 @@ rwx   rwx   rwx
 
 Das Beispiel würde so viel bedeuten wie: Der User hat die Rechte R,W d.h: er darf Dateien lesen, verändern aber nicht Ausführen. Die Group darf Dateien lesen aber nicht modifizieren. Alle anderen können mit einer Datei nichts machen.
 
-## Ändern der Rechte:
+#### Ändern der Rechte:
 Gui: Nautilus bei Ubuntu. --> Dateimanager
 Shell: (ch = change) Chmod, Chgip, Cham
 
