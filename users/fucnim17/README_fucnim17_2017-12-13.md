@@ -47,7 +47,7 @@ Man erkennt: Bytes die mit 10 anfangen sind Nachfolgebytes. Stehen am ersten Byt
 #### Übungen zum UTF-8 Code
 
 
-**Betriebssystem:** Ubunto
+**Betriebssystem:** Ubuntu
 
 **Ablauf:**
 * in ein Textdokument ein Wort hineinschreiben z.B. *Österreich*
