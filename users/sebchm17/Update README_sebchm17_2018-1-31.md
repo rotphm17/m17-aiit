@@ -6,11 +6,11 @@ hinzufügen. Über die Tappstops kann man die Zeilen der Tabelle verschieben, da
   
 ## Übung 
   
-  Ablauf: 
- * Ubuntu Betriebssystem starten 
- * Ein Textdokument in Libre Office öffnen 
- * Eine Tabelle erstellen 
- * Mit der Tabelle den Stundenplan unsere Klasse erstellen
+Ablauf: 
+* Ubuntu Betriebssystem starten 
+* Ein Textdokument in Libre Office öffnen 
+* Eine Tabelle erstellen 
+* Mit der Tabelle den Stundenplan unsere Klasse erstellen
   
  
 
