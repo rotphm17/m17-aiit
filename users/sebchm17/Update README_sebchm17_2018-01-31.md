@@ -11,7 +11,7 @@ hinzufügen. Über die Tabstopps kann man die Zeilen der Tabelle verschieben, da
 Ablauf: 
 * Ubuntu Betriebssystem starten 
 * Ein Textdokument in Libre Office öffnen 
-* Eine Tabelle erstellen 
+* Das Zeichen einer Tabelle in der Symbolleiste suchen und öffnen
 * Mit der Tabelle den Stundenplan unsere Klasse erstellen 
   
  
