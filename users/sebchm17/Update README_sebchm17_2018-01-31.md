@@ -12,7 +12,7 @@ Ablauf:
 * Ubuntu Betriebssystem starten 
 * Ein Textdokument in Libre Office öffnen 
 * Eine Tabelle erstellen 
-* Mit der Tabelle den Stundenplan unsere Klasse erstellen
+* Mit der Tabelle den Stundenplan unsere Klasse erstellen 
   
  
 
