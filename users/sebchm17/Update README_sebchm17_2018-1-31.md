@@ -10,7 +10,7 @@ hinzufügen. Über die Tappstops kann man die Zeilen der Tabelle verschieben, da
  * Ubuntu Betriebssystem starten 
  * Ein Textdokument in Libre Office öffnen 
  * Eine Tabelle erstellen 
- * 
+ * Mit der Tabelle den Stundenplan unsere Klasse erstellen
   
  
 
