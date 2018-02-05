@@ -12,6 +12,7 @@ Ablauf:
 * Ubuntu Betriebssystem starten 
 * Ein Textdokument in Libre Office öffnen 
 * Das Zeichen einer Tabelle in der Symbolleiste suchen und öffnen
+* Eine Tabelle mit den richtigen Maßen wählen
 * Mit der Tabelle den Stundenplan unsere Klasse erstellen 
   
  
