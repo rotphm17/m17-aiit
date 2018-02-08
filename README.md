@@ -10,7 +10,5 @@
   *von Jan Pfanner*
 * [24.1.2018](users/koganm17/README_koganm17_2018-01-24.md) **Textverarbeitung**  
   *von Andreas Kogler*
-
-
-nics/m17-aiit/blob/master/users/koganm17/README_koganm17_2018-01-24.md
-
+* [31.1.2018](users/sebchm17/README_sebchm17_2018-01-31.md) **Textverarbeitung**  
+  *von Christoph Sebernegg*
