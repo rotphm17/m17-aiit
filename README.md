@@ -8,7 +8,7 @@
   *von Andreas Augustin*
 * [17.1.2018](users/pfajam17/README_pfajam17_2018-01-17.md) **Betriebssysteme installieren**  
   *von Jan Pfanner*
-* [24.1.2018](users/koganm17/README_koganm17_2018-01-24.md) **Textverarbeitung**  
+* [24.1.2018](users/koganm17/README_koganm17_2018-01-24.md) **Textverarbeitung - Grundlagen**  
   *von Andreas Kogler*
-* [31.1.2018](users/sebchm17/README_sebchm17_2018-01-31.md) **Textverarbeitung**  
+* [31.1.2018](users/sebchm17/README_sebchm17_2018-01-31.md) **Textverarbeitung - Tabellen**  
   *von Christoph Sebernegg*
