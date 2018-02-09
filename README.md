@@ -12,3 +12,5 @@
   *von Andreas Kogler*
 * [31.1.2018](users/sebchm17/README_sebchm17_2018-01-31.md) **Textverarbeitung - Tabellen**  
   *von Christoph Sebernegg*
+* [7.2.2018](users/adamim17/README_adamim17_2018-02-07.md) **Bilddateien**  
+  *von Mike Adam*
