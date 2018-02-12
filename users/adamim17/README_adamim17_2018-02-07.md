@@ -37,7 +37,7 @@ Bei der Komprimierungsart wird die Bilddatei nach dem zurück Komprimieren vom I
 * usw.
 
 ## SVG:
-Bei .svg _(scaleable vector graphics)_ Bildateien kann man Bilddateien vergrößern ohne, dass das Bild Verpixelt wird.Die Bilddateien werden in **DPI**(**D**ots **P**er **I**nch) dargestellt. Das Format benutzt man bei Textdateien und zeichnungen bei denen nicht viel dargestellt wird (Technische Zeichnungen, Tabellen, usw...)
+Bei .svg _(scaleable vector graphics)_ Bildateien kann man Bilddateien vergrößern ohne, dass das Bild Verpixelt wird. Die Bilddateien werden in **DPI**(**D**ots **P**er **I**nch) dargestellt. Das Format benutzt man bei Textdateien und zeichnungen bei denen nicht viel dargestellt wird (Technische Zeichnungen, Tabellen, usw...)
 #### Programm für die Benutzung von .svg Bilddateien:
 * Inkscape
 
