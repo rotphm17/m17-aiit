@@ -21,5 +21,4 @@ Beim Komprimieren unterscheidet man:
 * verlustbehaftete Komprimierung
 
 #### Verlustlose Komprimierung:
-Bei dieser Komprimierungsart werden keine informationen verloren.
-z.B. 
+Bei dieser Komprimierungsart werden keine informationen verloren.z.B. wenn man eine Bildatei die 100KiB hat und man die komprimiert, und man sie zurück komprimieren will, wird die Bilddatei nicht verändert und hat gleich 100KiB wie vor der Komprimierung.
