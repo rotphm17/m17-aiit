@@ -14,6 +14,7 @@
   *von Christoph Sebernegg*
 * [7.2.2018](users/adamim17/README_adamim17_2018-02-07.md) **Bilddateien**  
   *von Mike Adam*
-* [14.2.2018](users/rotphm17/README_rotphm17_2018-02-14.md) **LibreOffice Draw, Formatierungen, Formeleditor**  
+* [14.2.2018](users/rotphm17/README_rotphm17_2018-02-14.md) **LibreOffice Draw, Formatierungen**  
   *von Philip Roth*
-
+* [28.2.2018](users/plivac17/README_plivac17_2018-02-28.md) **LibreOffice Formeleditor, Inhaltsverzeichnis**  
+  *von Vanessa Plieschnegger*
