@@ -18,5 +18,5 @@
   *von Philip Roth*
 * [28.2.2018](users/plivac17/README_plivac17_2018-02-28.md) **LibreOffice Formeleditor, Inhaltsverzeichnis**  
   *von Vanessa Plieschnegger*
-* [7.3.2018](users/koemim17/README_koemim17_2018-03-07.md) **LibreOffice Calc**  
-  *von Michael Körbler*
+* [7.3.2018](users/pfajam17/README_pfajam17_2018-03-07.md) **LibreOffice Calc**  
+  *von Jan Pfanner*
