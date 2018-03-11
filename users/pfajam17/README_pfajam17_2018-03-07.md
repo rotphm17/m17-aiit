@@ -39,8 +39,7 @@ Darstellungsarten verschiedener Werte einstellen, etwa des Datums.
 
 
 
-##
-Rechnen mit den Zellen
+## Rechnen mit den Zellen
 Um
 eine Rechenoperation mittels einer Zelle durchzuführen, schreibt man
 die Rechnung einfach mit einem **=** beginnend in dieselbe. Möchte
@@ -53,8 +52,7 @@ einzufügen.
 
 
 
-##
-Zelleninhalt übertragen
+## Zelleninhalt übertragen
 Möchte
 man mehrere Zellen mit einer einzelnen multiplizieren, beispielsweise
 um ein Weg/Zeit-Diagramm zu erstellen, kann man einfach in eine
@@ -71,19 +69,16 @@ verändert** haben möchte.
 
 
 
-#
-E-Mail-Etikette
+# E-Mail-Etikette
 
 
 
-##
-Do´s and dont´s 
+## Do´s and dont´s 
 
 
 
 
-###
-Do:
+### Do:
 Beim
 Antworten auf eine Mail den *Antworten*-Knopf drücken. Dadurch wird
 der Betreff automatisch zu Re:Ursprünglicher Titel, wodurch man die
@@ -92,8 +87,7 @@ Text der ersten Mail eingefügt.
 
 
 
-###
-Do not:
+### Do not:
 Das
 Einfügen von großen Dateien in Mails sollte unter allem Umständen
 vermieden werden, auch, wenn die Internetleitungen immer besser
@@ -101,13 +95,11 @@ werden.
 
 
 
-#
-PDFs
+# PDFs
 
 
 
-##
-Was ist ein PDF?
+## Was ist ein PDF?
  Ein
 PDF (Portable Document File) ist ein Dateiformat für **Dokumente**.
 Das dargestellte Dokument ist, im Gegensatz zu beispielsweise .docx
@@ -118,8 +110,7 @@ und PDF/E.
 
 
 
-##
-Wie bekomme ich ein PDF?
+## Wie bekomme ich ein PDF?
 Es
 gibt verschiedene Methoden, ein PDF-Dokument zu erstellen,
 beispielsweise den **PDF-Drucker**. Damit bezeichnet man einen
@@ -131,8 +122,7 @@ Aus einem Textverarbeitungsprogramm kann man eine Textdatei auch
 
 
 
-##
-Was kann das PDF?
+## Was kann das PDF?
 Text,
 Bilder, sogar Multimedia – es gibt kaum Grenzen, was man in ein PDF
 packen kann. Dieses ist
