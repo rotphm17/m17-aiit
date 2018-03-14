@@ -20,3 +20,5 @@
   *von Vanessa Plieschnegger*
 * [7.3.2018](users/pfajam17/README_pfajam17_2018-03-07.md) **LibreOffice Calc**  
   *von Jan Pfanner*
+* [14.3.2018](users/golram17/README_golram17_2018-03-14.md) **Calc: Bedingte Formatierungen und Formeln**  
+  *von Raphael Golser*
